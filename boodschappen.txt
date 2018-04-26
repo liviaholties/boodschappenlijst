@@ -2,3 +2,4 @@
 brood
 kaas
 eieren
+paprika
